@@ -1,0 +1,20 @@
+{
+  "name": "learn-web-rtc",
+  "version": "1.0.0",
+  "description": "Zoon Clone coding",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/node": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "ws": "^8.13.0"
+  }
+}
